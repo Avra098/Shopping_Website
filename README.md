@@ -1,2 +1,2 @@
-# amazon_clone
+# Shopping_Website
 shopping website
